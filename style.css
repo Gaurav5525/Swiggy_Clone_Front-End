@@ -138,6 +138,7 @@
     align-items: center;
     justify-content: space-between;
     height: 320px;
+    width: 100%;
 }
 
 .upper-offer{
